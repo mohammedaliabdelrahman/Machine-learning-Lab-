@@ -1,1 +1,3 @@
-
+In this task, I worked with the Telco Customer Churn dataset to predict whether a customer will churn or not. This problem is a classification task, 
+and the target variable is Churn, which indicates if the customer stayed or left. 
+The model learns from customer information such as services and contract details to make the prediction.
