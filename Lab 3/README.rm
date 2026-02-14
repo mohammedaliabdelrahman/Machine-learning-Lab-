@@ -1,0 +1,6 @@
+This dataset contains approximately 5,000 transaction records from Buy Now Pay Later (BNPL) service providers including Afterpay, Klarna, Affirm, 
+and Sezzle. Each record includes customer demographics (age, gender, annual income, credit score), transaction details (purchase category, amount, provider),
+and repayment status (paid on time, late payment, or defaulted). The data is useful for analyzing customer behavior, identifying risk factors for late payments, 
+and understanding spending patterns across different categories and demographic groups. 
+All columns are complete with no missing values, making it ready 
+for exploratory data analysis and machine learning projects in the fintech domain.
