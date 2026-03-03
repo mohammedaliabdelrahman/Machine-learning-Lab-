@@ -1,0 +1,5 @@
+The dataset was analyzed to check its structure, missing values, duplicates, and statistical summary. 
+Missing values were handled by filling numerical columns with the median and categorical columns with the mode. 
+Duplicate records were removed to improve data quality. Outliers were treated using the IQR method to reduce the impact of extreme values. 
+Categorical variables were encoded using one-hot encoding, and numerical features were scaled using StandardScaler. 
+The dataset is now clean and ready for machine learning.
