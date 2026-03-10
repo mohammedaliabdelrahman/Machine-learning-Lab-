@@ -1,0 +1,6 @@
+This Jupyter notebook applies feature engineering to a BNPL dataset (50,000 transactions) to predict customer repayment status. 
+Key engineered features include income-based ratios, credit score tiers, purchase amount categories, and a composite risk score. 
+Using Random Forest classification with 300 estimators, the model achieved ~75% accuracy. 
+Feature importance analysis revealed that credit score and the engineered risk score were the strongest predictors. 
+Feature selection maintained similar performance while reducing model complexity. Technologies used: Python, Pandas, Scikit-learn, and Matplotlib.
+
