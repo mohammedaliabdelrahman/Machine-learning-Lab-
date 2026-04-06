@@ -1,0 +1,4 @@
+This lab demonstrates building a Linear Regression model in Python to predict customer spending. 
+It covers data loading, exploration, feature selection, and model training using Scikit-learn. 
+The model is evaluated using metrics such as MAE and RMSE, along with visualization to compare actual and predicted values. 
+The lab highlights practical skills in data analysis, machine learning, and interpreting results for data-driven decision making.
