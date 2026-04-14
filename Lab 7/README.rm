@@ -1,0 +1,5 @@
+The advertising dataset contains information about users and their interaction with online ads. It includes features such as age, 
+daily time spent on a website, area income, and daily internet usage, along with demographic details like city, country, and gender. The target variable,
+“Clicked on Ad,” indicates whether a user clicked on an advertisement. This dataset is commonly used for classification tasks, 
+especially logistic regression, to predict user behavior. By analyzing patterns in user activity and demographics, 
+it helps identify key factors influencing ad engagement and supports building predictive models for digital marketing strategies.
