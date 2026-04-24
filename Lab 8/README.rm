@@ -1,0 +1,5 @@
+This dataset contains 1,000 records with 10 numerical feature columns and one target column named TARGET CLASS. 
+The features are artificially generated and represent normalized values used for classification tasks. 
+The target column has two balanced classes, 0 and 1, making it suitable for supervised machine learning models such as K-Nearest Neighbors (KNN). 
+Since all input variables are numeric and on different scales, feature standardization is recommended before training. 
+  The dataset is ideal for practicing data preprocessing, visualization, model training, evaluation, and hyperparameter tuning techniques in Python.
