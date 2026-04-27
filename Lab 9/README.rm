@@ -1,0 +1,5 @@
+This dataset contains loan application records used to predict whether a borrower will fully repay a loan.
+It includes 9,578 entries and 14 features such as credit policy status, loan purpose, interest rate, installment amount, annual income, 
+debt-to-income ratio, FICO score, credit line history, revolving balance, and public records. The target variable is not.fully.paid, which indicates 
+if the loan was not completely repaid. This dataset is commonly used for machine learning classification tasks such as Decision 
+  Trees and Random Forest models to analyze borrower risk.
