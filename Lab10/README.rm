@@ -1,0 +1,6 @@
+The Iris dataset contains 150 samples of iris flowers from three species: Setosa, Versicolor, 
+and Virginica (50 each). Each sample has four numerical features measured in cm: sepal length, sepal width, petal length, 
+and petal width. There are no missing values. Setosa is easily separable due to its small petals, while Versicolor 
+and Virginica overlap slightly. The dataset is widely used for classification, clustering, and visualization tasks. 
+It was introduced by Ronald Fisher in 1936 and remains a standard benchmark for machine learning algorithms due to its simplicity and balanced class distribution.
+
