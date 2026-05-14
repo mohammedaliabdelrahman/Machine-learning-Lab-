@@ -1,0 +1,6 @@
+The Credit Card Customer Segmentation dataset contains information about customers’ credit card usage and financial behavior. 
+It includes features such as account balance, purchases, cash advances, credit limits, payment amounts, and transaction frequency. 
+The dataset is commonly used for clustering and customer segmentation tasks in machine learning. By analyzing these features, businesses can 
+group customers based on spending habits and financial activity. The dataset helps companies understand customer behavior, identify high-value customers, 
+and improve marketing strategies. Since there is no target variable, it is mainly used for unsupervised learning techniques 
+  such as K-Means clustering and exploratory data analysis.
